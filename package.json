@@ -1,0 +1,23 @@
+{
+  "name": "estudiar-cookies-y-sessions-en-expressjs-danielr-gabriel-danield-l1-cookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-danielr-gabriel-danield-l1-cookies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-danielr-gabriel-danield-l1-cookies/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-danielr-gabriel-danield-l1-cookies#readme",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "express": "^4.15.2"
+  }
+}
